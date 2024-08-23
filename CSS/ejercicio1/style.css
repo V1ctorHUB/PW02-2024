@@ -1,0 +1,28 @@
+* {
+    color: antiquewhite
+}
+
+#h1 {
+    color: purple;
+}
+
+h1 {
+    color: skyblue;
+}
+
+a {
+    color: yellow;
+}
+
+.maxsteel {
+    color: green;
+}
+
+body {
+    background-image: url(https://wallpapers-clan.com/wp-content/uploads/2024/04/jujutsu-kaisen-gojo-blue-desktop-wallpaper-preview.jpg);
+    background-repeat: round;
+}
+
+.fondotable {
+    background-color: red;
+}
