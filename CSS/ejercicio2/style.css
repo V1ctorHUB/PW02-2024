@@ -1,0 +1,19 @@
+img {
+  width: 200px;
+}
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 100%;
+}
+.contenedor-abajo {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+}
